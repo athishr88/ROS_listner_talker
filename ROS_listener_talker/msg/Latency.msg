@@ -1,0 +1,2 @@
+time publishtime
+string message
